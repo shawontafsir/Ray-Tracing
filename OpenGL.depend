@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1523904528 source:c:\users\user\favorites\desktop\opengl\opengl_codeblocks\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\user\favorites\desktop\opengl\opengl_codeblocks\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1524044455 source:c:\users\user\favorites\desktop\1305072\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\user\favorites\desktop\1305072\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532208065 source:c:\users\user\favorites\desktop\1305072\1.cpp
+	"headerFile.h"
+
+1532209990 c:\users\user\favorites\desktop\1305072\headerfile.h
+	<bits/stdc++.h>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1526315054 c:\users\user\favorites\desktop\1305072\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
